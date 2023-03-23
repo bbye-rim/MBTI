@@ -5,6 +5,6 @@ data.js와 share.js는 이미 만들어진 것.
 
 완성본 : <https://bbye-rim.github.io/MBTI/>
 
-
+---
 
 원본 : <https://github.com/ParkYoungWoong/mbti-job-hiding-inside-me>
