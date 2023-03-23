@@ -34,8 +34,7 @@ function nextQuestion(choiceNumber) {
 function showResultPage() {
   // 쿼리스트링 : 주소에 정보를 담아서 넘겨주는 방식
   // location.href = '주소?데이터_이름=전달하고_싶은_데이터
-  location.href = '/results.html?mbti=' + mbti 
-  
+  location.href = '../MBTI/results.html?mbti=' + mbti 
 }
 
 choice1El.addEventListener('click', function () {
