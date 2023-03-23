@@ -1,0 +1,13 @@
+body {
+  background-color: #F6FCFF;
+  background-image: url("../images/main_bg.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+.character {
+  width: 100%; /*이미지가 화면이 줄어들 때 잘리지 않도록*/
+  max-width: 364px; /*화면이 늘어날 때 이미지가 너무 커지지 않도록*/
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
