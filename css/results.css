@@ -1,6 +1,6 @@
 body {
   background-color: #EAF8FF;
-  background-image: url("../MBTI/images/result_bg.jpg");
+  background-image: url("../images/result_bg.jpg");
   background-position: top center;
   background-repeat: no-repeat;
 }
@@ -49,7 +49,7 @@ body {
 .result .job {
   flex: 1; /*수평정렬되는 자식 요소들의 가로너비의 비율*/
   background-color: #FFFFFF;
-  background-image: url("../MBTI//images/result_star.png");
+  background-image: url("../images/result_star.png");
   background-position: center center;
   background-repeat: no-repeat;
   font-size: 30px;
