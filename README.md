@@ -5,7 +5,7 @@ data.js와 share.js는 강의에서 제공.
 
 완성본 : <https://bbye-rim.github.io/MBTI/>
 
-<img src="./images/MBTI_result.png>
+<img src="./images/MBTI_result.png">
 
 ---
 
